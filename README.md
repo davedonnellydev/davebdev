@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Dave (@davebdev)
 - 🌈 I'm a queer boy (he/him) teaching himself (and getting taught by others!) to code
 - 👀 Currently interested in all things front end
-- 🌱 I’m currently learning javascript (but soon moving on to React)!
+- 🌱 I’m currently playing around with js, tailwind, nunjucks & soon, alpine!
 - 📫 Feel free to email me at davidpaulbuckley@gmail.com
 
 <!---
